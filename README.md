@@ -1,0 +1,2 @@
+# kapitaselekta
+tugas kapita selekta
