@@ -14,5 +14,3 @@ Saran : Sebaiknya terus di implementasikan di dunia pendidikan khusunya di Polit
 Nama :Muhammad Yusup
 Kelas : D4 TI 3A
 NPM : 1144098
-
-
